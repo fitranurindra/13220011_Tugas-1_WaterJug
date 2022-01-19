@@ -1,1 +1,5 @@
-# 13220011_Tugas-1_WaterJug
+# Tugas 1 : Water Jug
+Nama    : Fitra Nurindra
+NIM     : 13220011
+Kelas   : 01
+Jurusan : Teknik Elektro
